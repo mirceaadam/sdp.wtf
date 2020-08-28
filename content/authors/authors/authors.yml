@@ -1,0 +1,31 @@
+- name: Admin
+  bio: |
+    Website Administrator
+  avatar: ./avatars/man.png
+  social:
+    - url: https://www.linkedin.com/
+    - url: https://www.facebook.com/
+  featured: false
+
+- name: Temistocle Cocean
+  bio: |
+    Temistocle Cocean, zis si "Temi", este un distins profesor in ezoterism. 
+    Manipulator de materie, publicist, ezoterist, epigramist si istoric isi incepe cariera inca dinainte sa se nasca in aceasta dimensiune. 
+    Promovator pasionat in studiul halucinatiei virtuale colective (#HVC) 
+  avatar: ./avatars/costel-cotetatu.png
+  social:
+    - url: https://unsplash.com
+    - url: https://stackoverflow.com
+    - url: https://github.com
+    - url: https://github.com
+    - url: https://github.com
+  featured: true
+
+- name: Aurel Cotetatu
+  bio: |
+    Proiectant astral corect indetificat ezoteric. Profesor si autor principal.
+  avatar: ./avatars/avataaars_transparent.png
+  social:
+    - url: https://www.linkedin.com/
+    - url: https://www.facebook.com/
+  featured: false

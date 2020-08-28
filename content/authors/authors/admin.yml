@@ -1,0 +1,8 @@
+name: Admin
+bio: |
+  Website Administrator
+avatar: ./avatars/man.png
+social:
+  - url: https://www.linkedin.com/
+  - url: https://www.facebook.com/
+featured: false
